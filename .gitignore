@@ -1,0 +1,17 @@
+/StreamMultiplexer/.classpath
+/StreamMultiplexer/.project
+/StreamMultiplexer/.settings/org.eclipse.jdt.apt.core.prefs
+/StreamMultiplexer/.settings/org.eclipse.jdt.core.prefs
+/StreamMultiplexer/.settings/org.eclipse.m2e.core.prefs
+/StreamMultiplexer/bin/api/streams/StreamMultiplexer.class
+/StreamMultiplexer/target/classes/META-INF/MANIFEST.MF
+/StreamMultiplexer/target/classes/META-INF/maven/api.streams/stream-multiplexer/pom.properties
+/StreamMultiplexer/target/classes/META-INF/maven/api.streams/stream-multiplexer/pom.xml
+/StreamMultiplexer/target/classes/api/streams/StreamMultiplexer.class
+/StreamMultiplexer/target/classes/api/streams/dto/SalesOrderDTO.class
+/StreamMultiplexer/target/classes/api/streams/interfaces/DisplayLogic.class
+/StreamMultiplexer/target/classes/api/streams/interfaces/FilterLogic.class
+/StreamMultiplexer/target/classes/api/streams/interfaces/Multiplier.class
+/StreamMultiplexer/target/classes/api/streams/interfaces/MultiplyLogic.class
+/StreamMultiplexer/target/classes/api/streams/interfaces/SortLogic.class
+/StreamMultiplexer/target/classes/api/streams/model/SalesOrder.class
